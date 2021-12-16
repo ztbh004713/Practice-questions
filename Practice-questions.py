@@ -17,4 +17,4 @@ elif country == "HK":
 	else:
 		print("不能考照喔")
 else:
-	print("不再记录中")
+	print("记录当中只有：TW/USA/HK")
