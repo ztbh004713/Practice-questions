@@ -11,3 +11,10 @@ elif country == "USA":
 		print("您可以考取驾照。")
 	else:
 		print("您目前无法考取驾照。")
+elif country == "HK":
+	if age >= 20:
+		print("可以考照喔")
+	else:
+		print("不能考照喔")
+else:
+	print("不再记录中")
